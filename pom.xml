@@ -18,12 +18,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.redhat.developers.msa.ola</groupId>
-	<artifactId>ola</artifactId>
+	<groupId>com.redhat.developers.msa.muzikeshqip</groupId>
+	<artifactId>muzikeshqip</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>ola</name>
+	<name>muzikeshqip</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
@@ -148,7 +148,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>ola</finalName>
+		<finalName>muzikeshqip</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
@@ -164,7 +164,7 @@
 							<all>
 								<property>
 									<name>app</name>
-									<value>ola</value>
+									<value>muzikeshqip</value>
 								</property>
 								<property>
 									<name>hystrix.enabled</name>

@@ -1,4 +1,4 @@
-package com.redhat.developers.msa.ola;
+package com.redhat.developers.msa.muzikeshqip;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
