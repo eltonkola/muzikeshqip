@@ -1,0 +1,8 @@
+
+run nga terminal:
+
+
+./gradlew bootRun
+
+
+
